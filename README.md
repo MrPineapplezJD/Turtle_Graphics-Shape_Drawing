@@ -21,7 +21,7 @@ The program demonstrates **event-driven programming** and creative coding with T
 ```
 project-root/
 │
-├── interactive_shapes.py   # Main Python script
+├── Grid_Game.py   # Main Python script
 └── README.md               # Documentation
 ```
 
@@ -31,7 +31,7 @@ project-root/
 1. Ensure you have **Python 3.x** installed.
 2. Run the script:
    ```bash
-   python interactive_shapes.py
+   python Grid_Game.py
 ---
 
 ## 👨‍💻 Author
